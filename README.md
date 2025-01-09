@@ -3,7 +3,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating Resource Groups and Azure Virtual Machines](https://github.com/mmtroyinfotech/)
+  - [Creating Resource Groups and Azure Virtual Machines](https://github.com/mmtroyinfotech/azure-resource-group-virtual-machines)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mmtroyinfotech/azure-network-protocols)
   - [Configuring Active Directory within Azure VMs](https://github.com/mmtroyinfotech/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
