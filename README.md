@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Creating Resource Groups and Azure Virtual Machines](https://github.com/mmtroyinfotech/azure-resource-group-virtual-machines)
   - [Network Security Groups (NSGs) and Installing Wireshark](https://github.com/mmtroyinfotech/azure-network-protocols)
-  - [Inspecting Network Protocols]
+  - [Inspecting Network Protocols](https://github.com/mmtroyinfotech/Inspecting-Network-Protocols)
   - [Configuring Active Directory within Azure VMs](https://github.com/mmtroyinfotech/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mmtroyinfotech/osticket-prereqs)
