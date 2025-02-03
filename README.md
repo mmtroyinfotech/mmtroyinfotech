@@ -15,6 +15,6 @@
 <h2>Connect with me:</h2>
 
 [![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](www.linkedin.com/in/michael-troy-24643a34a)
-
+[linkedin]: https://linkedin.com/in/Josh
 
 
