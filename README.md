@@ -14,4 +14,4 @@
 
 <h2>Connect with me:</h2>
 
- www.linkedin.com/in/michael-troy-24643a34a
+<a>www.linkedin.com/in/michael-troy-24643a34a</a>
